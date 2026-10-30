@@ -1,5 +1,35 @@
 # 💫 About Me:
-🔭 I'm currently working on Data Analysis and Python Projects<br><br>👯 I'm looking to collaborate on Open Source and Data Analytics Projects<br><br>🤝 I'm looking for help with Data Structures, Algorithms, and Machine Learning<br><br>🌱 I'm currently learning Python, Data Analysis, Machine Learning, and Cloud Computing<br><br>💬 Ask me about Python, C++, Data Analysis, and GitHub<br><br>⚡ Fun fact: I love learning new technologies and solving real-world problems!<br>
+## 👋 Hey there, I'm Aryan Kushwaha!
+
+### 🧠 Turning Data into Insights & Ideas into Reality
+
+🎓 BCA Student specializing in Artificial Intelligence & Machine Learning
+🐍 Python Developer | 📊 Data Analytics Enthusiast | 🤖 Aspiring ML Engineer
+
+I enjoy exploring data, building practical projects, and learning technologies that solve real-world problems. My goal is to combine programming, data analytics, and AI to create meaningful solutions.
+
+### 🚀 What I'm Up To
+
+* 📊 Building real-world data analysis projects using Python
+* 🧠 Exploring Machine Learning and Artificial Intelligence
+* 💻 Practicing C++ and Data Structures & Algorithms
+* ☁️ Exploring Cloud Computing and modern technologies
+* 🤝 Open to collaborating on interesting projects and open-source contributions
+
+### 🛠️ My Current Focus
+
+`Python` · `C++` · `Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `Scikit-learn` · `Machine Learning`
+
+### 🎯 My Mission
+
+To transform raw data into meaningful insights and build intelligent solutions that make a difference.
+
+### ⚡ A Little About Me
+
+I believe in learning by building, improving through challenges, and turning curiosity into code.
+
+**💡 Learn. Build. Analyze. Innovate. Repeat.**
+
 
 
 ## 🌐 Socials:
