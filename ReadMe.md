@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey there, I'm Aryan Kushwaha!
+## 👋 Hey there, I'm Aryan Kushwaha
 
 ### 🧠 Turning Data into Insights & Ideas into Reality
 
